@@ -79,10 +79,6 @@ This project demonstrates a complete **end-to-end Business Intelligence workflow
 
 ```text
 Raw Healthcare Dataset
-        │
-        ▼
-📄 Microsoft Excel
-(Data Exploration)
 
         │
         ▼
