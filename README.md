@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/cover.png" width="100%">
 
 # 🏥 Enterprise Healthcare Analytics Dashboard
 
@@ -19,10 +18,7 @@
 
 <br>
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/Enterprise-Healthcare-Analytics-Dashboard?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/Enterprise-Healthcare-Analytics-Dashboard?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/Enterprise-Healthcare-Analytics-Dashboard)
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=00A86B)
+<img src="assets/Cover.png" width="100%">
 
 </div>
 
