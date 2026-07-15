@@ -347,38 +347,6 @@ The dashboard enables stakeholders to answer critical business questions, includ
 
 ---
 
-# 🎯 Skills Demonstrated
-
-### Business Intelligence
-
-- Dashboard Development
-- KPI Design
-- Data Storytelling
-- Interactive Reporting
-
-### Data Modeling
-
-- Star Schema
-- Relationship Modeling
-- Fact & Dimension Tables
-
-### Power BI
-
-- Power Query
-- DAX
-- Visual Design
-- Slicers
-- Drill Through
-- Bookmarks
-
-### Analytics
-
-- Healthcare Analytics
-- Financial Analysis
-- Operational Reporting
-- Executive Reporting
-
----
 ---
 
 # 🏗️ Solution Architecture
@@ -403,26 +371,6 @@ Interactive Dashboard
         ▼
 Business Insights
 ```
-
----
-
-# ⭐ Data Model
-
-The project follows a **Star Schema** design to improve report performance and simplify data relationships.
-
-<div align="center">
-
-<img src="assets/star-schema.png" width="100%" alt="Star Schema">
-
-</div>
-
-### Advantages
-
-- Fast query performance
-- Simplified relationships
-- Better filter propagation
-- Reusable DAX measures
-- Enterprise-ready architecture
 
 ---
 
@@ -566,70 +514,6 @@ This dashboard enables healthcare organizations to:
 - ✅ Business-Oriented KPIs
 
 ---
----
-
-# 🚀 Getting Started
-
-## Prerequisites
-
-Before running the project, make sure you have:
-
-- Microsoft Power BI Desktop
-- Windows 10 / 11
-- Git (Optional)
-
----
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/Enterprise-Healthcare-Analytics-Dashboard.git
-```
-
-Open the project folder:
-
-```bash
-cd Enterprise-Healthcare-Analytics-Dashboard
-```
-
-Launch the Power BI report:
-
-```text
-Dashboard/
-└── Enterprise Healthcare Analytics.pbix
-```
-
-Refresh the dataset if required.
-
----
-
-# 💻 How to Use
-
-1. Open the `.pbix` file.
-2. Refresh the dataset.
-3. Navigate using the report pages.
-4. Apply filters and slicers.
-5. Drill into visualizations.
-6. Analyze KPIs and business insights.
-
----
-
-# 🎯 Future Enhancements
-
-The dashboard can be extended with additional enterprise capabilities.
-
-- 🤖 AI-powered forecasting
-- 📊 Predictive analytics
-- ☁ Azure SQL Integration
-- 🔄 Scheduled Refresh
-- 🔐 Row-Level Security (RLS)
-- 📱 Mobile Dashboard Optimization
-- 🌍 Multi-Hospital Analytics
-- 📈 Microsoft Fabric Integration
-
----
 
 # 🏆 Project Achievements
 
@@ -651,34 +535,6 @@ The dashboard can be extended with additional enterprise capabilities.
 
 ---
 
-# 📚 Skills Demonstrated
-
-### Data Analytics
-
-- Data Cleaning
-- Data Transformation
-- Data Validation
-- Business Analysis
-
-### Business Intelligence
-
-- Dashboard Development
-- KPI Reporting
-- Data Storytelling
-- Executive Reporting
-
-### Power BI
-
-- Power Query
-- DAX
-- Star Schema
-- Relationships
-- Drill Through
-- Slicers
-- Bookmarks
-- Tooltips
-
----
 
 # 🌟 Why This Project Stands Out
 
