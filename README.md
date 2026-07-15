@@ -502,56 +502,7 @@ This dashboard enables healthcare organizations to:
 
 ---
 
-# 📈 Project Workflow
 
-```text
-Raw Data
-   │
-   ▼
-Power Query
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-Data Modeling
-   │
-   ▼
-DAX Measures
-   │
-   ▼
-Interactive Reports
-   │
-   ▼
-Business Decisions
-```
-
----
-
-# 🗂 Repository Structure
-
-```text
-Enterprise-Healthcare-Analytics-Dashboard
-│
-├── assets/
-│   ├── cover.png
-│   ├── medical-dashboard.png
-│   ├── insurance-dashboard.png
-│   ├── test-results-dashboard.png
-│   ├── power-query.png
-│   └── star-schema.png
-│
-├── Dashboard/
-│   └── Enterprise Healthcare Analytics.pbix
-│
-├── Dataset/
-│
-├── README.md
-│
-└── LICENSE
-```
-
----
 
 # 🎯 Technical Skills Demonstrated
 
@@ -785,13 +736,6 @@ Your support is greatly appreciated.
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the `LICENSE` file for more information.
-
----
 
 <div align="center">
 
