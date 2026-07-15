@@ -18,8 +18,6 @@
 
 <br>
 
-<img src="Images/Cover.png" width="100%">
-
 </div>
 
 ---
@@ -77,6 +75,8 @@ This dashboard consolidates healthcare data into a unified analytical platform u
 
 # 🌟 Project Highlights
 
+<div align="center">
+
 | Feature | Description |
 |---------|-------------|
 | 📊 Interactive Dashboard | Dynamic and user-friendly reports |
@@ -91,6 +91,8 @@ This dashboard consolidates healthcare data into a unified analytical platform u
 ---
 
 # 🛠 Tech Stack
+
+<div align="center">
 
 | Category | Technology |
 |----------|------------|
@@ -178,7 +180,7 @@ Enterprise-Healthcare-Analytics-Dashboard/
 
 <div align="center">
 
-<img src="assets/cover.png" width="100%" alt="Enterprise Healthcare Dashboard">
+<img src="Images/Cover.png" width="100%" alt="Enterprise Healthcare Dashboard">
 
 </div>
 
@@ -200,7 +202,7 @@ The landing page provides a high-level summary of the entire healthcare ecosyste
 
 <div align="center">
 
-<img src="assets/medical-dashboard.png" width="100%" alt="Medical Condition Dashboard">
+<img src="Images/Medical_Condition.png" width="100%" alt="Medical Condition Dashboard">
 
 </div>
 
@@ -223,7 +225,7 @@ This dashboard helps healthcare professionals understand disease distribution ac
 
 <div align="center">
 
-<img src="assets/insurance-dashboard.png" width="100%" alt="Insurance Dashboard">
+<img src="Images/Insurance_Analysis.png" width="100%" alt="Insurance Dashboard">
 
 </div>
 
@@ -246,7 +248,7 @@ Analyzes insurance providers and billing information to evaluate financial perfo
 
 <div align="center">
 
-<img src="assets/test-results-dashboard.png" width="100%" alt="Test Result Dashboard">
+<img src="Images/Test_Result.png" width="100%" alt="Test Result Dashboard">
 
 </div>
 
@@ -269,7 +271,7 @@ Tracks laboratory test outcomes and helps identify trends in diagnostic results.
 
 <div align="center">
 
-<img src="assets/power-query.png" width="100%" alt="Power Query">
+<img src="Images/PowerQuery.png" width="100%" alt="Power Query">
 
 </div>
 
@@ -292,7 +294,7 @@ Power Query was used to clean, transform, and prepare the raw healthcare dataset
 
 <div align="center">
 
-<img src="assets/star-schema.png" width="100%" alt="Star Schema">
+<img src="Images/StarSchema.png" width="100%" alt="Star Schema">
 
 </div>
 
