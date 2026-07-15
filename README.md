@@ -18,7 +18,7 @@
 
 <br>
 
-<img src="assets/Cover.png" width="100%">
+<img src="Cover.png" width="100%">
 
 </div>
 
