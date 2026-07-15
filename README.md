@@ -347,8 +347,6 @@ The dashboard enables stakeholders to answer critical business questions, includ
 
 ---
 
----
-
 # 🏗️ Solution Architecture
 
 The dashboard follows a modern Business Intelligence workflow that transforms raw healthcare data into actionable insights.
