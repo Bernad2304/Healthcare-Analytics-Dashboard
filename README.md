@@ -566,18 +566,6 @@ This dashboard enables healthcare organizations to:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent"/>
-
-</div>
-
----
-
 # ⭐ Support
 
 If you found this project useful,
