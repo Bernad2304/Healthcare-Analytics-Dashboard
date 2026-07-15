@@ -75,7 +75,6 @@ This dashboard consolidates healthcare data into a unified analytical platform u
 
 # 🌟 Project Highlights
 
-<div align="center">
 
 | Feature | Description |
 |---------|-------------|
@@ -92,7 +91,6 @@ This dashboard consolidates healthcare data into a unified analytical platform u
 
 # 🛠 Tech Stack
 
-<div align="center">
 
 | Category | Technology |
 |----------|------------|
@@ -122,7 +120,6 @@ The dataset represents healthcare operations and includes information related to
 
 # 📌 Key Performance Indicators (KPIs)
 
-<div align="center">
 
 | KPI | Purpose |
 |-----|---------|
