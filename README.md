@@ -1,42 +1,30 @@
 <div align="center">
 
-# 🏥 Enterprise Healthcare Analytics & Operational Insights Dashboard
+# 🏥 Enterprise Healthcare Analytics Dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=700&size=28&pause=1200&color=2E8B57&center=true&vCenter=true&width=850&lines=Enterprise+Healthcare+Analytics+Dashboard;Power+BI+%7C+Power+Query+%7C+DAX;Transforming+Healthcare+Data+Into+Actionable+Insights;Executive+Decision+Support+System;Designed+For+Healthcare+Organizations" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=2E8B57&center=true&vCenter=true&width=900&lines=Enterprise+Healthcare+Analytics+Dashboard;Power+BI+%7C+DAX+%7C+Power+Query+%7C+Excel;Transforming+Healthcare+Data+Into+Actionable+Insights;Business+Intelligence+Portfolio+Project;Executive+Healthcare+Reporting"/>
 
 <br>
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-009999?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Power%20Query-00A884?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Healthcare%20Analytics-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-1565C0?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Modeling-4CAF50?style=for-the-badge"/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Business%20Intelligence-00695C?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Version-1.0-success?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Portfolio_Project-blue?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Healthcare-Analytics-darkgreen?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Theme-Healthcare_Green-5B8C2A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pages-4-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DAX%20Measures-6-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Tables-15-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Visuals-10+-brightgreen?style=for-the-badge"/>
 
 </div>
 
 ---
 
 # 🏥 Dashboard Preview
-
-> **Replace the image below with your Cover Page screenshot**
 
 <p align="center">
 
@@ -48,163 +36,117 @@
 
 # 🌟 Executive Summary
 
-> Enterprise-grade Healthcare Analytics Dashboard developed to transform raw healthcare data into meaningful operational intelligence through scalable data modeling, advanced DAX calculations, and interactive Power BI visualizations.
+> [!IMPORTANT]
+>
+> This project demonstrates an end-to-end Business Intelligence solution developed using **Power BI, Power Query, Excel, DAX, and Star Schema Modeling** to transform raw healthcare data into meaningful operational insights.
 
-This project provides healthcare stakeholders with a centralized analytical solution to monitor:
+The dashboard enables healthcare stakeholders to:
 
-- 👨‍⚕️ Patient Distribution
-- 💰 Billing Performance
-- 🏥 Hospital Operations
-- 🧪 Medical Test Results
-- 🩺 Medical Conditions
-- 🛡 Insurance Coverage
-- 🌍 Geographic Hospital Distribution
-- 📈 Executive KPIs
-
-The solution follows an end-to-end Business Intelligence workflow, beginning with data preprocessing in **Excel** and **Power Query**, followed by **Star Schema Modeling**, **DAX development**, and finally an interactive Power BI dashboard designed for executive-level decision making.
+- 📊 Monitor patient distribution
+- 💰 Analyze billing performance
+- 🏥 Evaluate hospital operations
+- 🩺 Track medical conditions
+- 🧪 Analyze diagnostic outcomes
+- 📈 Support executive decision-making
 
 ---
 
-# 📊 Project Statistics
+# 📈 Project Statistics
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Dashboard%20Pages-4-2E8B57?style=for-the-badge"/>
+| 📌 Metric | 🚀 Value |
+|------------|---------|
+| Dashboard Pages | **4** |
+| DAX Measures | **6** |
+| Data Tables | **15** |
+| KPIs | **6** |
+| Visualizations | **10+** |
+| Theme | Healthcare Green |
 
-<img src="https://img.shields.io/badge/DAX%20Measures-6-00897B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Tables-15-1565C0?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Visualizations-10+-5E35B1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Theme-Healthcare_Green-689F38?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Project-Type%20Portfolio-success?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
 # 🧭 Repository Navigation
 
-| Section | Description |
-|---------|-------------|
-| 🏠 Executive Overview | Project introduction and objectives |
-| 📊 Dashboard Gallery | Complete dashboard walkthrough |
-| ⚙️ Data Architecture | Star Schema & Data Model |
-| 🔄 ETL Pipeline | Power Query transformations |
-| 📈 KPIs | Key Performance Indicators |
-| 💡 Business Insights | Analytical findings |
-| 🚀 Recommendations | Actionable business solutions |
-| 🛠 Tech Stack | Tools and technologies |
-| 👨‍💻 Developer | About the project creator |
-
----
-
-# 📌 Project Highlights
-
-## ✔ End-to-End BI Solution
-
-Designed a complete healthcare analytics solution starting from raw data preparation to executive dashboard delivery.
-
----
-
-## ✔ Enterprise Data Modeling
-
-Implemented a scalable **Star Schema** architecture to optimize query performance and analytical efficiency.
-
----
-
-## ✔ Advanced Analytics
-
-Developed dynamic **DAX Measures** to calculate healthcare KPIs supporting business decision-making.
-
----
-
-## ✔ Executive Dashboard
-
-Created an interactive dashboard with drill-down capabilities, slicers, decomposition tree analysis, maps, and KPI monitoring.
-
----
-
-## ✔ Healthcare Business Intelligence
-
-Converted complex healthcare records into meaningful operational insights for hospitals and healthcare administrators.
+```text
+🏠 Enterprise Healthcare Analytics Dashboard
+│
+├── 📊 Dashboard Showcase
+│
+├── ⭐ Star Schema
+│
+├── ⚡ Power Query
+│
+├── 🧮 DAX Measures
+│
+├── 📈 Executive KPIs
+│
+├── 💡 Business Insights
+│
+├── 🚀 Recommendations
+│
+└── 👨‍💻 About Developer
+```
 
 ---
 
 # 🎯 Business Problem
 
-Healthcare organizations generate massive volumes of patient, billing, insurance, and operational data every day. However, this information often exists in disconnected systems, making it difficult for healthcare administrators to monitor performance, identify operational bottlenecks, and make data-driven decisions.
+Healthcare organizations generate massive volumes of operational data every day.
 
-Without a centralized analytics platform, answering questions such as:
+Without a centralized reporting solution, identifying patient trends, monitoring billing performance, evaluating insurance distribution, and supporting executive decisions becomes increasingly difficult.
 
-- Which medical conditions are most prevalent?
-- How does insurance distribution vary across patients?
-- Which hospitals generate the highest billing?
-- Are patient admissions increasing over time?
-- How are diagnostic test results distributed?
-- What operational trends require immediate attention?
-
-becomes time-consuming and inefficient.
-
-This project addresses these challenges by transforming raw healthcare data into a centralized Business Intelligence solution that supports executive-level decision-making through interactive analytics.
+This project addresses these challenges by consolidating multiple healthcare datasets into a single interactive Business Intelligence dashboard.
 
 ---
 
-# 🎯 Project Objectives
+# 🚀 Project Objectives
 
-✔ Monitor overall patient distribution
+✔ Analyze patient demographics
 
-✔ Analyze healthcare billing performance
+✔ Monitor medical conditions
 
-✔ Evaluate insurance provider distribution
+✔ Evaluate insurance providers
 
-✔ Understand patient demographics
+✔ Track hospital billing
 
-✔ Analyze medical conditions
+✔ Monitor diagnostic results
 
-✔ Monitor admission trends
+✔ Create executive KPIs
 
-✔ Compare hospital performance
+✔ Deliver interactive analytics
 
-✔ Analyze doctor performance
-
-✔ Evaluate diagnostic test outcomes
-
-✔ Deliver executive KPIs
-
-✔ Build an interactive analytical solution
-
-✔ Support strategic healthcare decisions
+✔ Support data-driven decision-making
 
 ---
 
-# ⚙ Analytics Workflow
+# ⚙ End-to-End Analytics Workflow
 
 ```text
-                        RAW HEALTHCARE DATA
-                               │
-                               ▼
-                    📄 Excel Data Preparation
-                               │
-                               ▼
-                 ⚡ Power Query Data Transformation
-                               │
-                               ▼
-                ⭐ Star Schema Data Modeling
-                               │
-                               ▼
-                 🧮 DAX Measures & KPIs
-                               │
-                               ▼
-                 📊 Interactive Power BI Dashboard
-                               │
-                               ▼
-                💡 Business Insights & Analytics
-                               │
-                               ▼
-              🚀 Executive Decision Support
+              RAW HEALTHCARE DATA
+                      │
+                      ▼
+              📄 Excel Preparation
+                      │
+                      ▼
+          ⚡ Power Query Transformation
+                      │
+                      ▼
+             ⭐ Star Schema Modeling
+                      │
+                      ▼
+              🧮 DAX Calculations
+                      │
+                      ▼
+          📊 Interactive Dashboard
+                      │
+                      ▼
+             💡 Business Insights
+                      │
+                      ▼
+        🚀 Executive Decision Making
 ```
 
 ---
@@ -212,154 +154,110 @@ This project addresses these challenges by transforming raw healthcare data into
 # 🏗 Solution Architecture
 
 ```text
-                    ┌────────────────────────────┐
-                    │     Healthcare Dataset      │
-                    └─────────────┬──────────────┘
-                                  │
-                                  ▼
-                        Excel & Power Query
-                                  │
-                                  ▼
-                       Data Cleaning & ETL
-                                  │
-                                  ▼
-                       Star Schema Model
-                                  │
-               ┌──────────────────┼──────────────────┐
-               ▼                  ▼                  ▼
-         Dimension Tables    Fact Table      Relationships
-               │                  │                  │
-               └──────────────┬───┴──────────────────┘
-                              ▼
+                     Healthcare Dataset
+                             │
+                             ▼
+                    Excel + Power Query
+                             │
+                             ▼
+                 Data Cleaning & ETL
+                             │
+                             ▼
+                 Star Schema Modeling
+                             │
+          ┌──────────────────┼──────────────────┐
+          ▼                  ▼                  ▼
+    Patient Table      Hospital Table      Doctor Table
+          │                  │                  │
+          └──────────────────┼──────────────────┘
+                             ▼
+                       Fact Table
+                             │
+                             ▼
                      DAX Calculations
-                              ▼
-                  Interactive Dashboard
-                              ▼
-              Executive Business Insights
+                             │
+                             ▼
+                   Interactive Dashboard
+                             │
+                             ▼
+                    Executive Insights
 ```
 
 ---
 
 # 🛠 Technology Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=github"/>
+| Technology | Purpose |
+|------------|---------|
+| 📊 Power BI | Dashboard Development |
+| ⚡ Power Query | ETL & Data Cleaning |
+| 🧮 DAX | KPI Development |
+| 📄 Excel | Data Preparation |
+| ⭐ Star Schema | Data Modeling |
+| 📈 Business Intelligence | Executive Reporting |
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-009999?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
-
-<img src="https://img.shields.io/badge/Data%20Modeling-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Star%20Schema-3F51B5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-00695C?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# 📂 Repository Structure
+# 🎨 Dashboard Design Philosophy
 
 ```text
-Enterprise-Healthcare-Analytics-Dashboard
-│
-├── 📁 Dashboard
-│     └── Healthcare Analytics Dashboard.pbix
-│
-├── 📁 Dataset
-│     └── Healthcare Dataset.xlsx
-│
-├── 📁 Images
-│     ├── Cover.png
-│     ├── Dashboard_Page_1.png
-│     ├── Dashboard_Page_2.png
-│     ├── Dashboard_Page_3.png
-│     ├── StarSchema.png
-│     └── PowerQuery.png
-│
-├── 📄 README.md
-│
-└── 📄 LICENSE
+Simple
+   │
+   ▼
+Interactive
+   │
+   ▼
+Insightful
+   │
+   ▼
+Executive Friendly
+   │
+   ▼
+Actionable
+```
+
+The dashboard follows a clean Healthcare Green theme with an emphasis on readability, interactive exploration, and executive-level reporting.
+
+---
+
+> [!TIP]
+> This dashboard follows the complete Business Intelligence lifecycle—from raw healthcare data to executive reporting—demonstrating practical skills in ETL, data modeling, DAX, KPI design, and interactive visualization.
+
+---
+
+# 🖼 Dashboard Showcase
+
+> [!IMPORTANT]
+> The dashboard consists of four interactive report pages, each designed to answer a specific healthcare business question through intuitive visualizations and executive KPIs.
+
+---
+
+# 🏥 Dashboard Navigation
+
+```text
+                Enterprise Dashboard
+                        │
+      ┌─────────────────┼──────────────────┐
+      │                 │                  │
+      ▼                 ▼                  ▼
+ Medical          Insurance         Test Results
+ Conditions        Analysis            Analysis
+                        │
+                        ▼
+                 Executive KPIs
 ```
 
 ---
 
-# 📋 Project Information
-
-| Category | Details |
-|-----------|----------|
-| 🏥 Project | Enterprise Healthcare Analytics Dashboard |
-| 📅 Version | Portfolio Edition 1.0 |
-| 📊 Dashboard Pages | 4 |
-| 📈 DAX Measures | 6 |
-| 🗄 Tables | 15 |
-| 🏗 Data Model | Star Schema |
-| 🛠 Tools | Power BI, Power Query, Excel |
-| 🎨 Theme | Healthcare Green |
-| 📂 Dataset | Healthcare Analytics Dataset |
-| 👨‍💻 Developer | Bernad Meckenzi S |
+# 📄 Dashboard Pages
 
 ---
 
-# 🎨 Dashboard Theme
-
-The dashboard follows a clean Healthcare Green design inspired by enterprise Business Intelligence applications.
-
-### Theme Characteristics
-
-🟢 Professional Healthcare Green
-
-⚪ Soft White Background
-
-🟢 Interactive KPI Cards
-
-📊 Executive Visual Layout
-
-📈 High Visual Contrast
-
-🧩 Consistent Report Design
-
-🎯 Executive Storytelling
-
----
-
-# 🖼️ Dashboard Showcase
-
-> **An executive Business Intelligence solution designed to provide healthcare stakeholders with actionable insights through interactive visual analytics.**
-
----
-
-# 🏠 Dashboard Landing Page
-
-<p align="center">
-
-<img src="Images/Cover.png" width="100%"/>
-
-</p>
-
-### ✨ Dashboard Highlights
-
-✔ Executive Navigation Panel
-
-✔ Interactive KPI Cards
-
-✔ Modern Healthcare Theme
-
-✔ Cross-filtering
-
-✔ Professional Report Layout
-
-✔ Dynamic Navigation Buttons
-
----
-
-# 🩺 Page 01 — Medical Condition Analysis
+# 🏥 Page 1 — Medical Condition Analysis
 
 <p align="center">
 
@@ -367,65 +265,55 @@ The dashboard follows a clean Healthcare Green design inspired by enterprise Bus
 
 </p>
 
-### 📖 Business Objective
+---
 
-Understand patient distribution across different medical conditions and identify healthcare demand patterns.
+## 🎯 Business Objective
+
+Understand how patients are distributed across different medical conditions and identify patterns affecting admissions and billing.
 
 ---
 
-### 📊 Key Metrics
+### 📊 Visualizations
 
-👥 Total Patients
+✔ KPI Cards
 
-💰 Total Billing
+✔ Treemap
 
-📅 Average Length of Stay
+✔ Bar Chart
 
-👤 Average Age
+✔ Filled Map
 
-🏥 Total Admissions
+✔ Table
 
----
-
-### 📈 Visual Analysis
-
-📊 Patient Distribution by Medical Condition
-
-🧑‍🤝‍🧑 Gender Distribution
-
-🎂 Age Group Analysis
-
-🏥 Hospital Performance
-
-🗺 Geographic Patient Distribution
-
-💰 Billing Comparison
-
-📋 Patient Detail Table
+✔ Interactive Slicers
 
 ---
 
-### 💡 Business Questions Answered
+### 📌 Questions Answered
 
-✔ Which medical condition has the highest patient count?
+• Which medical condition has the highest patient count?
 
-✔ Which hospitals handle the most patients?
+• Which condition generates the highest billing?
 
-✔ How does billing vary by medical condition?
+• How are patients distributed geographically?
 
-✔ What age group requires the most healthcare?
-
-✔ Which gender dominates patient admissions?
+• Which hospitals treat the most patients?
 
 ---
 
-### 🎯 Key Insight
+### 💡 Executive Insights
 
-> Arthritis, Diabetes, Hypertension, Obesity, and Cancer collectively account for a significant proportion of patient admissions, highlighting the need for continuous monitoring of chronic diseases.
+📍 Arthritis and Diabetes contribute significantly to patient admissions.
+
+📍 Billing differs across treatment categories.
+
+📍 Hospitals experience varying patient loads.
+
+📍 Interactive filters enable hospital-level analysis.
 
 ---
 
-# 🛡️ Page 02 — Insurance Distribution Analysis
+# 🛡 Page 2 — Insurance Distribution Analysis
 
 <p align="center">
 
@@ -433,47 +321,53 @@ Understand patient distribution across different medical conditions and identify
 
 </p>
 
-### 📖 Business Objective
+---
 
-Analyze insurance provider distribution and understand its impact on patient billing and healthcare services.
+## 🎯 Business Objective
+
+Analyze how insurance providers contribute to healthcare coverage and billing performance.
 
 ---
 
-### 📊 Visual Analysis
+### 📊 Visualizations
 
-🛡 Insurance Provider Distribution
+✔ Pie Chart
 
-📊 Medical Condition vs Insurance
+✔ Treemap
 
-💰 Billing by Insurance Provider
+✔ KPI Cards
 
-👥 Patient Distribution
+✔ Tables
 
-📋 Insurance Summary Table
-
-📈 Interactive Charts
+✔ Slicers
 
 ---
 
-### 💡 Business Questions Answered
+### 📌 Questions Answered
 
-✔ Which insurance provider covers the highest number of patients?
+• Which insurance company covers the most patients?
 
-✔ How is billing distributed among providers?
+• How is billing distributed among providers?
 
-✔ Which medical conditions rely on specific insurers?
+• Which medical conditions rely on insurance most?
 
-✔ Are patients evenly distributed across insurance companies?
-
----
-
-### 🎯 Key Insight
-
-> Insurance coverage is distributed across multiple providers, reducing dependency on a single organization and supporting broader financial stability.
+• How balanced is insurance utilization?
 
 ---
 
-# 🧪 Page 03 — Patient Test Result Analysis
+### 💡 Executive Insights
+
+📍 Insurance coverage remains relatively balanced.
+
+📍 Billing differs between providers.
+
+📍 Insurance plays a major role in overall revenue.
+
+📍 Provider-wise analysis supports financial planning.
+
+---
+
+# 🧪 Page 3 — Test Result Analysis
 
 <p align="center">
 
@@ -481,72 +375,84 @@ Analyze insurance provider distribution and understand its impact on patient bil
 
 </p>
 
-### 📖 Business Objective
+---
 
-Evaluate diagnostic test outcomes to support healthcare quality assessment and patient monitoring.
+## 🎯 Business Objective
+
+Evaluate diagnostic outcomes and monitor laboratory test performance across patients.
 
 ---
 
-### 📊 Visual Analysis
+### 📊 Visualizations
 
-🧪 Test Result Distribution
+✔ Scatter Plot
 
-✅ Normal Results
+✔ Decomposition Tree
 
-⚠ Abnormal Results
+✔ KPI Cards
 
-❓ Inconclusive Results
+✔ Tables
 
-📈 Medical Condition Comparison
-
-📋 Patient Detail Table
+✔ Slicers
 
 ---
 
-### 💡 Business Questions Answered
+### 📌 Questions Answered
 
-✔ What percentage of patients have abnormal results?
+• How many reports are Normal?
 
-✔ Which conditions show higher abnormality rates?
+• How many reports are Abnormal?
 
-✔ Which demographics require closer monitoring?
+• Which hospitals have the highest abnormal cases?
 
-✔ How do test outcomes vary across hospitals?
-
----
-
-### 🎯 Key Insight
-
-> Diagnostic outcomes reveal a meaningful proportion of abnormal and inconclusive results, emphasizing the importance of continuous clinical monitoring and preventive healthcare initiatives.
+• Which medical conditions require further investigation?
 
 ---
 
-# 📊 Dashboard KPIs
+### 💡 Executive Insights
 
-| KPI | Description |
-|------|-------------|
-| 👥 Total Patients | Overall patient volume |
-| 💰 Total Billing | Total healthcare revenue |
-| 📅 Average Length of Stay | Average hospitalization duration |
-| 🎂 Average Age | Average patient age |
-| 🏥 Total Admissions | Overall admissions |
-| 💵 Average Billing | Average billing per patient |
+📍 Most laboratory reports are Normal.
+
+📍 Abnormal cases require closer monitoring.
+
+📍 Decomposition Tree enables root-cause exploration.
+
+📍 Scatter Plot reveals patient-level diagnostic variation.
 
 ---
 
-# 📈 Visualizations Used
+# 📊 Executive KPI Dashboard
+
+The dashboard summarizes healthcare performance using six dynamic KPIs.
 
 <div align="center">
 
-| Visualization | Purpose |
-|--------------|---------|
-| 📊 KPI Cards | Executive Summary |
-| 📉 Scatter Plot | Correlation Analysis |
-| 📍 Map | Geographic Distribution |
-| 🥧 Pie Chart | Percentage Distribution |
-| 🌳 Treemap | Category Comparison |
-| 📋 Tables | Detailed Records |
-| 📊 Bar Charts | Comparative Analysis |
+| KPI | Business Purpose |
+|------|------------------|
+| 👥 Total Patients | Monitor patient volume |
+| 💰 Total Billing | Revenue tracking |
+| 📈 Average Billing | Cost analysis |
+| 🏥 Total Admissions | Operational monitoring |
+| 🕒 Avg Length of Stay | Hospital efficiency |
+| 🎂 Average Age | Patient demographics |
+
+</div>
+
+---
+
+# 📈 Dashboard Visualizations
+
+<div align="center">
+
+| Visual | Purpose |
+|---------|---------|
+| 📊 KPI Cards | Executive Metrics |
+| 🌳 Treemap | Medical Distribution |
+| 🥧 Pie Chart | Insurance Analysis |
+| 🌍 Filled Map | Geographic Analysis |
+| 📋 Table | Detailed Records |
+| 📈 Bar Chart | Category Comparison |
+| 🎯 Scatter Plot | Diagnostic Analysis |
 | 🌲 Decomposition Tree | Root Cause Analysis |
 | 🎛 Slicers | Interactive Filtering |
 
@@ -554,509 +460,488 @@ Evaluate diagnostic test outcomes to support healthcare quality assessment and p
 
 ---
 
-# ⭐ Dashboard Capabilities
-
-✅ Interactive Filtering
-
-✅ Cross Highlighting
-
-✅ Drill Down Analysis
-
-✅ Dynamic KPIs
-
-✅ Executive Reporting
-
-✅ Business Storytelling
-
-✅ Healthcare Intelligence
-
-✅ Data Exploration
-
----
-
-# ⭐ Data Architecture
-
-> A scalable **Star Schema** data model was implemented to improve report performance, simplify DAX calculations, and support enterprise-level analytical reporting.
-
-<p align="center">
-
-<img src="Images/StarSchema.png" width="95%"/>
-
-</p>
-
----
-
-## 🏗 Data Model Overview
-
-The solution follows a **Star Schema** architecture consisting of a centralized fact table surrounded by multiple dimension tables.
-
-### ⭐ Fact Table
-
-✔ Healthcare Records
-
-Contains:
-
-- Patient Details
-- Billing Amount
-- Admission Type
-- Test Results
-- Hospital Information
-
----
-
-### ⭐ Dimension Tables
-
-✔ Patient
-
-✔ Doctor
-
-✔ Hospital
-
-✔ Date
-
-✔ Medical Condition
-
-✔ Insurance Provider
-
-✔ Admission Type
-
----
-
-## 🚀 Why Star Schema?
-
-✅ Faster Dashboard Performance
-
-✅ Cleaner Relationships
-
-✅ Easier DAX Calculations
-
-✅ Better Scalability
-
-✅ Reduced Model Complexity
-
-✅ Enterprise BI Best Practice
-
----
-
-# ⚡ Power Query (ETL Process)
-
-> Before visualization, the raw healthcare dataset underwent extensive transformation using **Power Query**.
-
-<p align="center">
-
-<img src="Images/PowerQuery.png" width="95%"/>
-
-</p>
-
----
-
-## 🔄 Data Cleaning Process
-
-✔ Removed duplicate records
-
-✔ Standardized data types
-
-✔ Corrected date formats
-
-✔ Trimmed unnecessary spaces
-
-✔ Renamed columns
-
-✔ Created calculated columns
-
-✔ Removed inconsistencies
-
-✔ Improved overall data quality
-
----
-
-## 📦 ETL Workflow
+# 🎨 Dashboard Theme
 
 ```text
-Raw Dataset
-      │
-      ▼
-Missing Values Handling
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Transformation
-      │
-      ▼
-Data Validation
-      │
-      ▼
-Optimized Dataset
-      │
-      ▼
-Power BI Data Model
+Healthcare Green
+        │
+        ▼
+Professional Layout
+        │
+        ▼
+Interactive Reporting
+        │
+        ▼
+Executive Dashboard
 ```
 
 ---
 
-# 📈 Executive KPIs
+### 🎯 Design Principles
 
-| KPI | Business Purpose |
-|------|------------------|
-| 👥 Total Patients | Monitor patient volume |
-| 💰 Total Billing | Evaluate healthcare revenue |
-| 💳 Average Billing | Average treatment cost |
-| 📅 Average Length of Stay | Hospital efficiency |
-| 🎂 Average Age | Patient demographic analysis |
-| 🏥 Total Admissions | Admission monitoring |
+✔ Clean Layout
+
+✔ Consistent Color Palette
+
+✔ Executive-Friendly KPIs
+
+✔ Interactive Navigation
+
+✔ Cross Filtering
+
+✔ Responsive Visuals
+
+---
+
+# 📈 Dashboard Features
+
+```text
+Interactive Dashboard
+        │
+        ├── Dynamic KPIs
+        │
+        ├── Cross Filtering
+        │
+        ├── Drill-down Analysis
+        │
+        ├── Geographic Mapping
+        │
+        ├── Root Cause Analysis
+        │
+        └── Executive Reporting
+```
+
+---
+
+# ⭐ Dashboard Strengths
+
+> [!TIP]
+
+This dashboard was designed following enterprise Business Intelligence practices.
+
+### Highlights
+
+✅ Interactive report pages
+
+✅ Executive KPI monitoring
+
+✅ Dynamic filtering
+
+✅ Optimized user experience
+
+✅ Healthcare-focused storytelling
+
+✅ Clean visual hierarchy
+
+---
+
+# 📌 Key Deliverables
+
+✔ 4 Interactive Report Pages
+
+✔ 6 Business KPIs
+
+✔ 15 Connected Tables
+
+✔ 6 Custom DAX Measures
+
+✔ Star Schema Data Model
+
+✔ Power Query ETL Pipeline
+
+✔ Executive-Level Reporting
+
+---
+
+> [!NOTE]
+
+Every visualization is interconnected through Power BI relationships, slicers, and DAX measures, allowing users to explore healthcare data dynamically from multiple business perspectives.
+
+---
+
+# ⭐ Star Schema Data Model
+
+> [!IMPORTANT]
+> This dashboard follows a **Star Schema** architecture to improve model performance, simplify DAX calculations, and ensure scalable reporting.
+
+---
+
+<p align="center">
+
+<img src="Images/StarSchema.png" width="100%"/>
+
+</p>
+
+---
+
+# 🏗 Data Model Architecture
+
+```text
+                          📅 Date Dimension
+                                 │
+                                 ▼
+     ┌──────────────────────────────────────────────────────┐
+     │                  FACT TABLE                          │
+     │              Healthcare Records                      │
+     └──────────────────────────────────────────────────────┘
+          ▲             ▲             ▲             ▲
+          │             │             │             │
+          │             │             │             │
+     👤 Patient     🏥 Hospital    👨‍⚕ Doctor     💳 Insurance
+          │
+          ▼
+   Business Intelligence Dashboard
+```
+
+---
+
+## 🌟 Why Star Schema?
+
+<div align="center">
+
+| Benefit | Impact |
+|---------|--------|
+| ⚡ Faster Queries | Better Performance |
+| ⭐ Simple Relationships | Easier Maintenance |
+| 📊 Better DAX | Cleaner Measures |
+| 🚀 Scalable Model | Enterprise Ready |
+| 💡 Easy Reporting | Better User Experience |
+
+</div>
+
+---
+
+# ⚡ Power Query (ETL)
+
+> [!NOTE]
+> Before analysis, the healthcare dataset was transformed using Power Query to ensure data consistency and reporting accuracy.
+
+<p align="center">
+
+<img src="Images/PowerQuery.png" width="100%"/>
+
+</p>
+
+---
+
+# 🔄 ETL Pipeline
+
+```text
+CSV Dataset
+     │
+     ▼
+Import to Power Query
+     │
+     ▼
+Remove Null Values
+     │
+     ▼
+Correct Data Types
+     │
+     ▼
+Rename Columns
+     │
+     ▼
+Create Calculated Columns
+     │
+     ▼
+Load into Power BI
+```
+
+---
+
+## ⚙ ETL Operations
+
+✔ Data Cleaning
+
+✔ Data Transformation
+
+✔ Null Handling
+
+✔ Data Validation
+
+✔ Data Formatting
+
+✔ Model Optimization
 
 ---
 
 # 🧮 DAX Measures
 
-The dashboard leverages dynamic **DAX Measures** to calculate healthcare metrics in real time.
+The dashboard uses custom DAX measures to calculate executive-level KPIs.
 
-| Measure | Purpose |
-|---------|----------|
-| Total Patients | Patient Count |
-| Total Billing | Revenue Calculation |
-| Avg Billing | Average Billing |
-| Length of Stay | Hospital Stay Duration |
-| Age Group | Patient Segmentation |
-| Billing Per Patient | Revenue Analysis |
+<div align="center">
+
+| Measure | Description |
+|----------|-------------|
+| 💰 Total Billing | Total Revenue Generated |
+| 👥 Total Patients | Overall Patient Count |
+| 📈 Average Billing | Average Cost per Patient |
+| 🕒 Average Length of Stay | Hospital Stay Analysis |
+| 🎂 Average Age | Demographic Analysis |
+| 🏥 Total Admissions | Admission Monitoring |
+
+</div>
+
+---
+
+# 🧠 DAX Logic Flow
+
+```text
+Raw Columns
+     │
+     ▼
+Calculated Columns
+     │
+     ▼
+Measures
+     │
+     ▼
+KPIs
+     │
+     ▼
+Dashboard Cards
+```
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 Enterprise-Healthcare-Analytics-Dashboard
+│
+├── 📂 Dashboard
+│   └── Healthcare Dashboard.pbix
+│
+├── 📂 Dataset
+│   └── healthcare_dataset.csv
+│
+├── 📂 Images
+│   ├── Cover.png
+│   ├── Medical_Condition.png
+│   ├── Insurance_Analysis.png
+│   ├── Test_Result.png
+│   ├── StarSchema.png
+│   └── PowerQuery.png
+│
+├── 📄 README.md
+├── 📄 LICENSE
+└── 📄 .gitignore
+```
+
+---
+
+# 📈 Business Intelligence Workflow
+
+```text
+Healthcare Dataset
+        │
+        ▼
+ Excel Preparation
+        │
+        ▼
+ Power Query ETL
+        │
+        ▼
+ Star Schema
+        │
+        ▼
+ DAX Measures
+        │
+        ▼
+ Interactive Dashboard
+        │
+        ▼
+ Business Insights
+        │
+        ▼
+ Executive Decisions
+```
 
 ---
 
 # 💡 Executive Insights
 
-## 🩺 Patient Analysis
+> [!TIP]
+> The dashboard converts complex healthcare data into actionable intelligence for strategic planning.
 
-### Insight 01
+### 📊 Key Findings
 
-Patients aged **45–59** represent one of the largest patient groups, indicating increased healthcare demand among middle-aged adults.
+🏥 Chronic medical conditions account for a significant share of hospital admissions.
 
----
+💰 Billing trends differ considerably across treatment categories.
 
-### Insight 02
+🛡 Insurance providers maintain relatively balanced patient coverage.
 
-Male and female patient distributions remain relatively balanced, suggesting equitable healthcare utilization.
+🧪 Most laboratory reports are categorized as **Normal**, while abnormal cases highlight areas requiring further clinical attention.
 
----
+🌍 Geographic analysis helps identify regions with higher patient concentrations.
 
-### Insight 03
-
-Arthritis, Diabetes, Hypertension, Obesity, and Cancer account for a significant portion of total patient admissions.
-
----
-
-## 💰 Financial Analysis
-
-### Insight 04
-
-Billing variation is driven more by treatment complexity than patient age, emphasizing the importance of clinical factors over demographics.
-
----
-
-### Insight 05
-
-Patients with longer hospital stays contribute significantly to overall healthcare revenue.
-
----
-
-## 🛡 Insurance Analysis
-
-### Insight 06
-
-Insurance coverage is distributed across multiple providers, reducing dependency on any single insurance organization.
-
----
-
-### Insight 07
-
-Healthcare billing is supported by a balanced insurance ecosystem, improving financial resilience.
-
----
-
-## 🧪 Clinical Analysis
-
-### Insight 08
-
-Diagnostic outcomes include Normal, Abnormal, and Inconclusive results, enabling continuous monitoring of healthcare quality.
-
----
-
-### Insight 09
-
-Medical condition trends reveal opportunities for preventive care initiatives focused on chronic diseases.
-
----
-
-## 🌍 Operational Analysis
-
-### Insight 10
-
-Interactive geographic analysis helps identify regional patient distribution and hospital demand patterns.
+📈 Interactive filtering enables quick comparisons across hospitals, doctors, insurance providers, and medical conditions.
 
 ---
 
 # 🚀 Business Recommendations
 
-## 🏥 Recommendation 01
-
-Increase preventive healthcare programs targeting Arthritis, Diabetes, and Hypertension to reduce long-term patient admissions.
-
----
-
-## 👨‍⚕ Recommendation 02
-
-Balance patient allocation among hospitals and healthcare professionals to improve operational efficiency.
-
----
-
-## 💰 Recommendation 03
-
-Review billing variations across hospitals to identify pricing inconsistencies and improve financial transparency.
-
----
-
-## 📅 Recommendation 04
-
-Reduce unnecessary hospital stay durations through optimized treatment workflows and discharge planning.
-
----
-
-## 🛡 Recommendation 05
-
-Expand insurance partnerships to strengthen healthcare financial sustainability.
-
----
-
-## 🧪 Recommendation 06
-
-Prioritize monitoring of abnormal and inconclusive diagnostic results for early medical intervention.
-
----
-
-## 📊 Recommendation 07
-
-Continue using executive dashboards for real-time operational monitoring and strategic decision-making.
-
----
-
-# 🏆 Skills Demonstrated
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Cleaning-Expert-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-ETL-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-Advanced-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20BI-Dashboard-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Visualization-Interactive-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Business%20Intelligence-Analytics-00695C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Storytelling-Professional-8E44AD?style=for-the-badge"/>
+| Recommendation | Expected Benefit |
+|---------------|------------------|
+| 🩺 Strengthen Preventive Care | Reduce Readmissions |
+| 💰 Optimize Billing Processes | Improve Revenue Management |
+| 📊 Monitor High-Risk Patients | Better Clinical Outcomes |
+| 🏥 Balance Hospital Resources | Improve Operational Efficiency |
+| 🛡 Evaluate Insurance Trends | Better Financial Planning |
 
 </div>
 
 ---
 
-# 🎖 Core Competencies
+# 🎯 Business Value Delivered
 
-- 📊 Business Intelligence
-- 📈 KPI Development
-- 📂 Data Cleaning
-- ⚡ ETL using Power Query
-- ⭐ Star Schema Modeling
-- 🧮 DAX Calculations
-- 📉 Data Visualization
-- 💡 Business Insights
-- 🚀 Executive Reporting
-- 🏥 Healthcare Analytics
-
----
-
----
-
-# 🔮 Future Enhancements
-
-Although the dashboard delivers comprehensive healthcare analytics, several advanced capabilities can further enhance its business value.
-
-## 🚀 Planned Improvements
-
-### 🤖 Predictive Analytics
-
-- Patient Readmission Prediction
-- Disease Risk Prediction
-- Patient Survival Analysis
+```text
+Healthcare Data
+       │
+       ▼
+Operational Analysis
+       │
+       ▼
+Performance Monitoring
+       │
+       ▼
+Interactive Insights
+       │
+       ▼
+Executive Decisions
+       │
+       ▼
+Business Value
+```
 
 ---
 
-### 📈 Forecasting
+> [!IMPORTANT]
 
-- Future Patient Admissions
+### This project demonstrates:
 
-- Revenue Forecasting
+✅ End-to-End BI Development
 
-- Seasonal Disease Trends
+✅ Power Query ETL
 
-- Bed Occupancy Prediction
+✅ Star Schema Modeling
 
----
+✅ DAX Calculations
 
-### 🧠 Artificial Intelligence
+✅ Interactive Dashboard Design
 
-- AI Powered Healthcare Assistant
+✅ Executive KPI Development
 
-- Natural Language Querying
-
-- Smart Dashboard Narratives
-
-- Automated Report Generation
+✅ Business Storytelling
 
 ---
 
-### ☁ Cloud Integration
+# 🚀 Future Scope
 
-- Microsoft Fabric
-
-- Azure SQL Database
-
-- Power BI Service
-
-- Scheduled Refresh
-
-- Role Level Security (RLS)
-
----
-
-### 📱 Executive Dashboard
-
-- Mobile Optimized Reports
-
-- Executive KPI Dashboard
-
-- Department Performance Dashboard
-
----
-
-# 📚 Key Learnings
-
-This project significantly strengthened my understanding of the complete Business Intelligence lifecycle.
-
-Throughout this project I gained hands-on experience in:
-
-✔ Business Problem Understanding
-
-✔ Data Cleaning & Transformation
-
-✔ Power Query ETL
-
-✔ Star Schema Data Modeling
-
-✔ Relationship Management
-
-✔ DAX Measure Development
-
-✔ KPI Design
-
-✔ Interactive Dashboard Development
-
-✔ Business Storytelling
-
-✔ Executive Reporting
-
-✔ Healthcare Analytics
-
-✔ GitHub Project Documentation
-
----
-
-# 📌 Business Value Delivered
-
-### 👨‍⚕ Healthcare Administrators
-
-✔ Better Patient Monitoring
-
-✔ Resource Planning
-
-✔ Performance Tracking
-
----
-
-### 💰 Finance Teams
-
-✔ Billing Analysis
-
-✔ Revenue Monitoring
-
-✔ Insurance Analysis
-
----
-
-### 🏥 Hospital Management
-
-✔ Operational Insights
-
-✔ Admission Trends
-
-✔ Patient Distribution
-
----
-
-### 📊 Decision Makers
-
-✔ Executive KPIs
-
-✔ Interactive Analytics
-
-✔ Data Driven Decisions
-
----
-
-# 🏆 Repository Highlights
+> [!NOTE]
+> This project establishes a solid Business Intelligence foundation. Future enhancements can transform it into an enterprise-grade healthcare analytics platform.
 
 <div align="center">
 
-| ⭐ Feature | ✅ Status |
-|-----------|-----------|
-| Interactive Dashboard | ✔ |
-| Power Query ETL | ✔ |
-| Star Schema | ✔ |
-| Advanced DAX | ✔ |
-| KPI Development | ✔ |
-| Business Insights | ✔ |
-| Executive Recommendations | ✔ |
-| Portfolio Ready | ✔ |
+| 🚀 Enhancement | 🎯 Business Value |
+|---------------|-------------------|
+| 🤖 AI Insights | Predict patient risks |
+| 📈 Forecasting | Predict future admissions |
+| ☁ Microsoft Fabric | Enterprise-scale analytics |
+| 🔄 Live Data Refresh | Real-time reporting |
+| 🔐 Row-Level Security | Department-level access |
+| 📱 Mobile Dashboard | Executive reporting anywhere |
 
 </div>
 
 ---
 
-# 📁 Project Assets
+# 📚 Skills Demonstrated
 
-📊 Power BI Dashboard (.pbix)
+This project demonstrates practical Business Intelligence skills across the complete analytics lifecycle.
 
-📄 Healthcare Dataset (.xlsx)
+<div align="center">
 
-🖼 Dashboard Screenshots
+| Category | Skills |
+|-----------|--------|
+| 📊 Visualization | Power BI |
+| ⚡ ETL | Power Query |
+| 🧮 Analytics | DAX |
+| ⭐ Data Modeling | Star Schema |
+| 📈 KPI Development | Business Metrics |
+| 📄 Data Preparation | Excel |
+| 💡 Storytelling | Dashboard Design |
 
-🧩 Star Schema
-
-⚡ Power Query
-
-📚 Project Documentation
-
-README
+</div>
 
 ---
 
-# ❤️ Acknowledgements
+# 🏆 Project Achievements
 
-Special thanks to Microsoft Power BI, Power Query, DAX, and the open-source community for providing exceptional tools that enable impactful Business Intelligence solutions.
+```text
+             Enterprise BI Project
+                    │
+        ┌───────────┼───────────┐
+        │           │           │
+        ▼           ▼           ▼
+   Data Prep   Data Model   Dashboard
+        │           │           │
+        └───────────┼───────────┘
+                    ▼
+              Executive KPIs
+                    │
+                    ▼
+             Business Insights
+                    │
+                    ▼
+            Better Decisions
+```
+
+---
+
+# 🌟 Business Impact
+
+> [!IMPORTANT]
+> This dashboard transforms raw healthcare records into meaningful business intelligence that supports informed operational and strategic decision-making.
+
+### 📌 Key Business Outcomes
+
+✔ Monitor patient admission trends
+
+✔ Evaluate hospital billing performance
+
+✔ Compare insurance provider distribution
+
+✔ Track diagnostic test outcomes
+
+✔ Improve operational visibility
+
+✔ Support executive decision-making
+
+✔ Enable faster business reporting
+
+✔ Deliver interactive healthcare analytics
+
+---
+
+# 📈 Project Snapshot
+
+<div align="center">
+
+| Component | Status |
+|-----------|--------|
+| 📄 Dashboard Pages | ✅ Completed |
+| ⭐ Star Schema | ✅ Implemented |
+| ⚡ Power Query ETL | ✅ Completed |
+| 🧮 DAX Measures | ✅ Developed |
+| 📊 KPI Dashboard | ✅ Interactive |
+| 📈 Business Insights | ✅ Delivered |
+
+</div>
 
 ---
 
@@ -1066,33 +951,37 @@ Special thanks to Microsoft Power BI, Power Query, DAX, and the open-source comm
 
 # Bernad Meckenzi S
 
-### Aspiring Data Analyst | Business Intelligence Enthusiast
+### 📊 Aspiring Data Analyst | Business Intelligence Enthusiast
 
-Transforming raw data into meaningful business insights through data visualization, analytics, and storytelling.
+Passionate about transforming raw data into interactive dashboards that enable smarter business decisions through analytics and visualization.
 
----
-
-### 💼 Technical Skills
-
-📊 Power BI
-
-📈 Excel
-
-🧮 DAX
-
-⚡ Power Query
-
-🗄 SQL
-
-🐍 Python
-
-📉 Data Visualization
-
-📚 Business Intelligence
+</div>
 
 ---
 
-### 🌐 Connect With Me
+# 🎯 Core Competencies
+
+```text
+               Data Analytics
+                      │
+      ┌───────────────┼───────────────┐
+      │               │               │
+      ▼               ▼               ▼
+ Excel          Power BI          SQL
+      │               │               │
+      └───────────────┼───────────────┘
+                      ▼
+                   Python
+                      │
+                      ▼
+             Business Intelligence
+```
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://linkedin.com/in/Bernad-Meckenzi-S">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -1112,40 +1001,95 @@ Transforming raw data into meaningful business insights through data visualizati
 
 # ⭐ Support This Project
 
-If you found this project useful or inspiring,
+If you found this project useful,
 
 please consider giving it a ⭐ on GitHub.
 
-It motivates me to build more open-source Business Intelligence projects.
+It helps others discover the project and motivates me to build more Business Intelligence solutions.
+
+---
+
+# 📜 License
+
+This repository is licensed under the **MIT License**.
+
+Feel free to fork, learn from, and adapt this project with proper attribution.
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- Microsoft Power BI
+- Microsoft Excel
+- Power Query
+- DAX Community
+- Open-source Data Analytics Community
+
+for providing the tools and knowledge that made this project possible.
+
+---
+
+# 📊 Project Journey
+
+```text
+Healthcare Dataset
+        │
+        ▼
+ Data Cleaning
+        │
+        ▼
+ Data Modeling
+        │
+        ▼
+ DAX Development
+        │
+        ▼
+ Dashboard Design
+        │
+        ▼
+ Business Insights
+        │
+        ▼
+ Executive Reporting
+        │
+        ▼
+ Portfolio Project
+```
 
 ---
 
 <div align="center">
 
-# 🏥
+# 🏥 Enterprise Healthcare Analytics Dashboard
 
-## "Turning Healthcare Data into Actionable Business Intelligence"
+### Turning Healthcare Data into Actionable Business Intelligence
+
+<br>
+
+<img src="https://img.shields.io/badge/Built%20with-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/DAX-Analytics-005C99?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Power%20Query-ETL-00A884?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel-Data%20Preparation-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Bernad2304&label=Repository+Views&style=for-the-badge&color=2E8B57"/>
+
+<br><br>
+
+⭐ **If you enjoyed exploring this project, don't forget to star the repository!**
 
 ---
 
-### Built with ❤️ using
+### 📈 "Data becomes powerful when it drives meaningful decisions."
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<br>
 
-<img src="https://img.shields.io/badge/DAX-005C99?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Power%20Query-009999?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
----
-
-### ⭐ Thank you for visiting this repository ⭐
-
-<img src="https://komarev.com/ghpvc/?username=Bernad2304&style=for-the-badge&color=brightgreen"/>
+Made with ❤️ by **Bernad Meckenzi S**
 
 </div>
-
-Converted complex healthcare records into meaningful operational insights for hospitals and healthcare administrators.
-
----
